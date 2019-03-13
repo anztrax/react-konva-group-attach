@@ -1,0 +1,17 @@
+{
+  "name": "try-react-konva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "next"
+  },
+  "dependencies": {
+    "konva": "^3.2.0",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-konva": "^16.8.4"
+  }
+}
+
